@@ -581,23 +581,34 @@
 /* Masthead */
 
 .masthead {
-    padding-top: 6rem;
-    padding-bottom: 2rem;
-    /* background-color: #94d7f5; */
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
     font-size: 2.75rem;
     line-height: 2.75rem;
-    color: #39464e;
   }
   .masthead .masthead-subheading {
     font-size: 1.25rem;
-    color: #e4582d;
   }
   .masthead .masthead-avatar {
-    width: 30rem;
+    width: 25rem;
   }
   
+  @media (min-width: 992px) {
+    .masthead {
+      padding-top: calc(6rem + 104px);
+      padding-bottom: 6rem;
+    }
+    .masthead .masthead-heading {
+      font-size: 4rem;
+      line-height: 3.5rem;
+    }
+    .masthead .masthead-subheading {
+      font-size: 1.5rem;
+    }
+  }
+    
   
 
 /* Our Team */
