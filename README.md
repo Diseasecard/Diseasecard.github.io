@@ -7,6 +7,6 @@
 - orange (#e4582d) rgb 228, 88, 45
 
 Primary:
-- citric (#ff7337)  rgb 255, 115, 55
-Secundary:
-- dark blue (#39464e) rgb 57, 70, 78
+- lavanda (#9583b6)  rgb 149, 131, 182
+Secondary:
+- dark gray (#2b2b2e) rgb 43, 43, 46
