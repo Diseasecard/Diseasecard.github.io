@@ -1,4 +1,4 @@
-# Diseasecard.github.io
+# Diseasecard Microsite
 
 ## Microsite of a website designed to find and access genetic and medical information about a disease.
 
